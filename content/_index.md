@@ -1,5 +1,5 @@
 +++
-title = "Sawmill: A Modular Layout Builder for Hugo and Forestry.io 1"
+title = "Tom Geraghty - Tech"
 type = "page"
 [[blocks]]
 background_image = "/uploads/2018/04/20/logs-splash.png"
