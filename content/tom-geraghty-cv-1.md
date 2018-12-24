@@ -1,5 +1,4 @@
 +++
-draft = true
 title = "Tom Geraghty CV"
 type = "page"
 [[blocks]]
