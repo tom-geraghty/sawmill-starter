@@ -1,5 +1,6 @@
 +++
 date = "2018-12-24T05:33:22+00:00"
+draft = true
 title = "Tom Geraghty - CV"
 [[blocks]]
 template = "body-copy"
