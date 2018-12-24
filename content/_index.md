@@ -9,7 +9,7 @@ size = "Big"
 subheading = "Technology professional and consultant"
 template = "hero-section"
 [[blocks]]
-content = "**Sawmill** is a simplistic Hugo theme built to take advantage of [Forestry CMS](https://forestry.io \"Forestry.io\")'s Blocks feature.\n\nThis theme includes a few basic components to get started with Blocks right away and create dynamic, visually interesting layouts. Once you get the hang of Sawmill's modular content strategy, you are encouraged to start creating your own components to fit the needs of your website."
+content = "**Tom Geraghty** \n\nInnovative, financially astute and enthusiastic tech professional, with experience building and managing IT operations, teams and projects in a range of businesses from SMEs to multinational enterprises. I specialise in high performance service delivery, DevOps, cloud technology, process improvement, and using lean methodologies to innovate and automate at scale.\n\nThis website is built using Hugo on AWS S3 and cloudfront, managed through Forestry.io and deployed through GitHub. It is highly scalable, version controlled, serverless, and FAST."
 template = "body-copy"
 [[blocks]]
 background_style = "Brand Color"
