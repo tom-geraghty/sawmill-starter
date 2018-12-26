@@ -18,7 +18,7 @@ size = "Small"
 template = "hero-section"
 [[blocks]]
 background_style = "Light"
-content = "[Bulma](https://bulma.io/) is a modern, responsive CSS framework with a flexbox-based grid system. "
+content = "[Bulma](https://bulma.io/) is a modern and responsive CSS framework with a flexbox-based grid system. "
 heading = "Built With Bulma"
 image = "/uploads/2018/04/19/bulma-logo.png"
 image_position = "Left"
