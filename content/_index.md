@@ -21,11 +21,11 @@ content = "\n* **January 2018 – August 2018: Experian – UK Head of Cloud Pla
 template = "body-copy"
 [[blocks]]
 background_style = "Light"
-content = "Hugo is a fast static site generator written in Go. https://gohugo.io/about/"
-heading = "Built using Hugo on AWS S3"
+content = "Hugo is a fast static site generator written in Go. https://gohugo.io/about/. "
+heading = "About this site."
 image = "/uploads/2018/04/19/bulma-logo.png"
 image_position = "Left"
-subheading = ""
+subheading = "Built using Hugo, hosted on AWS S3, managed with Forestry.io and deployed via GitHub."
 template = "media-feature"
 [[blocks]]
 background_style = "Light"
