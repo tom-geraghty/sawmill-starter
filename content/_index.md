@@ -13,7 +13,7 @@ content = "**Tom Geraghty** \n\nInnovative, financially astute and enthusiastic 
 template = "body-copy"
 [[blocks]]
 background_style = "Brand Color"
-heading = "Background"
+heading = "Career History"
 size = "Small"
 template = "hero-section"
 [[blocks]]
