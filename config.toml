@@ -5,8 +5,12 @@ title = "Sawmill"
 [Author]
 name = "DJ Walker"
 [[menu.main]]
+name = "Tom Geraghty"
+url = "http://tomgeraghty.co.uk"
+weight = 2
+[[menu.main]]
 name = "View on Github"
 url = "https://github.com/dwalkr/sawmill"
-weight = 10
+weight = 1
 [params]
 logo = "/logo.svg"
