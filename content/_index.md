@@ -35,18 +35,5 @@ image = "/uploads/2018/04/19/headingcolors-1.png"
 image_position = "Right"
 image_shadow = true
 template = "media-feature"
-[[blocks]]
-background_style = "Dark"
-content = "This theme is designed to work out-of-the-box with [Forestry.io's](https://forestry.io) **Blocks** feature. Just copy the theme's `.forestry/front_matter/templates` directory into the top level of your project, or get started even faster with the [starter project](https://github.com/dwalkr/sawmill-starter)."
-heading = "Made For Forestry"
-image = "/uploads/2018/04/19/blocks-ss.png"
-image_position = "Left"
-image_shadow = true
-template = "media-feature"
-[[blocks]]
-button_text = "View on Github"
-button_url = "https://github.com/dwalkr/sawmill"
-heading = "Let's Get Started"
-template = "call-to-action"
 
 +++
