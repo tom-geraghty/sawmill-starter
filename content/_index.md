@@ -29,7 +29,7 @@ subheading = "Hugo is a fast and modern static site generator written in Go. htt
 template = "media-feature"
 [[blocks]]
 background_style = "Light"
-content = "The theme's primary color and logo are customizable from your `config.toml` file."
+content = "[Bulma](https://bulma.io/) is a modern and responsive CSS framework with a flexbox-based grid system."
 heading = "Customizable Branding"
 image = "/uploads/2018/04/19/headingcolors-1.png"
 image_position = "Right"
