@@ -21,11 +21,11 @@ content = "\n* **January 2018 – August 2018: Experian – UK Head of Cloud Pla
 template = "body-copy"
 [[blocks]]
 background_style = "Light"
-content = "[Bulma](https://bulma.io/) is a modern and responsive CSS framework with a flexbox-based grid system. "
+content = "Hugo is a fast and modern static site generator written in Go. https://gohugo.io/about/"
 heading = "Built using Hugo and Bulma"
 image = "/uploads/2018/04/19/bulma-logo.png"
 image_position = "Left"
-subheading = "Hugo is a fast and modern static site generator written in Go. https://gohugo.io/about/"
+subheading = ""
 template = "media-feature"
 [[blocks]]
 background_style = "Light"
