@@ -30,7 +30,7 @@ template = "media-feature"
 [[blocks]]
 background_style = "Light"
 content = "[Bulma](https://bulma.io/) is a modern and responsive CSS framework with a flexbox-based grid system."
-heading = "Constructed with Bulma"
+heading = "Constructed with Bulma."
 image = "/uploads/2018/04/19/headingcolors-1.png"
 image_position = "Right"
 image_shadow = true
